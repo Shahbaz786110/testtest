@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Just test" max_length="40" name="x_524225_test_test_just_test" sizeclass="0" type="collection">
+        <element label="New Field Name" mandatory="true" max_length="80" name="u_field_name_3" type="field_name"/>
+        <element label="New Name-Value Pairs" mandatory="true" max_length="4000" name="u_simple_name_values_1" type="simple_name_values"/>
+        <element label="New Name-Value Pairs" mandatory="true" max_length="4000" name="u_simple_name_values_2" type="simple_name_values"/>
+        <element label="New Name-Value Pairs" mandatory="true" max_length="4000" name="u_simple_name_values_4" type="simple_name_values"/>
+    </element>
+</database>
