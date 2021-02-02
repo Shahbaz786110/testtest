@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_simple_name_values_2" label="New Name-Value Pairs" language="en" table="x_524225_test_test_just_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_simple_name_values_2</element>
+            <help/>
+            <hint/>
+            <label>New Name-Value Pairs</label>
+            <language>en</language>
+            <name>x_524225_test_test_just_test</name>
+            <plural>New Name-Value Pairs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-14 09:13:56</sys_created_on>
+            <sys_id>212311482fb12010a052b2e72799b6f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Name-Value Pairs</sys_name>
+            <sys_package display_value="Test test" source="x_524225_test_test">21ed89442fb12010a052b2e72799b674</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test test">21ed89442fb12010a052b2e72799b674</sys_scope>
+            <sys_update_name>sys_documentation_x_524225_test_test_just_test_u_simple_name_values_2_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-14 09:13:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

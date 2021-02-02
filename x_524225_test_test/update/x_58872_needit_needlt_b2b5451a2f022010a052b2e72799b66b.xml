@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_58872_needit_needlt">
+    <x_58872_needit_needlt action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sys_class_name>x_58872_needit_needlt</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-02 18:18:02</sys_created_on>
+        <sys_id>b2b5451a2f022010a052b2e72799b66b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Test test" source="x_524225_test_test">21ed89442fb12010a052b2e72799b674</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test test">21ed89442fb12010a052b2e72799b674</sys_scope>
+        <sys_update_name>x_58872_needit_needlt_b2b5451a2f022010a052b2e72799b66b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-02 18:18:02</sys_updated_on>
+        <u_audio_1/>
+        <u_choice_1>14</u_choice_1>
+        <u_choice_4/>
+        <u_currency_1>0</u_currency_1>
+        <u_field_name_1/>
+        <u_field_name_2/>
+        <u_field_name_3/>
+        <u_request_type>leagal</u_request_type>
+        <u_simple_name_values_2/>
+        <u_table_name_3/>
+        <u_what_needed_2>legal1</u_what_needed_2>
+    </x_58872_needit_needlt>
+</record_update>
